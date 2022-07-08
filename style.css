@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: azure;
+    padding: 50px 20px 30px 40px;
+    text-align: center;
+    line-height: 0%;
+}
+
+.first {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-position: 0%;
+
+}
+
+
+footer {
+    background-color: black;
+    line-height: 2%;
+}
+
+footer h2 {
+    font-size: 15px;
+    padding-top: 20px;
+    color: brown;
+    text-align: center;
+    font-family: 'Edu QLD Beginner', cursive;
+
+}
+
+footer p {
+    font-size: 7px;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
