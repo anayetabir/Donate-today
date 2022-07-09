@@ -1,39 +1,158 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
-}
-
-h1 {
-    font-size: 50px;
-    color: azure;
-    padding: 50px 20px 30px 40px;
-    text-align: center;
     line-height: 0%;
 }
 
-.first {
-    background-image: url(images/donation7.jpg);
-    background-repeat: no-repeat;
-    background-position: 0%;
+section {
+    margin-bottom: 300px;
+}
+
+.h1 {
+    font-size: 70px;
+    color: rgb(59, 190, 45);
+    padding: 200px 10px 30px 10px;
+    text-align: center;
+    line-height: 0%;
+    margin-top: 0px;
+}
+
+.h2 {
+    font-size: 70px;
+    color: rgb(59, 190, 45);
+    padding: 30px 10px 30px 10px;
+    text-align: center;
 
 }
+
+.first {
+    height: 700px;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+}
+
+#p1 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(red, rgb(217, 92, 70));
+    padding: 20px 50px 20px 50px;
+    border-radius: 5px;
+
+
+
+}
+
+.h3 {
+    font-size: 70px;
+    color: black;
+    padding: 200px 10px 30px 10px;
+    text-align: center;
+    line-height: 0%;
+    margin-top: 0px;
+}
+
+#p2 {
+    color: rgb(88, 85, 85);
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.part {
+    display: flex;
+}
+
+.a1 {
+    width: 10%;
+    height: 130px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    background-color: rgb(230, 226, 222);
+}
+
+.a2 {
+    width: 10%;
+    height: 130px;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 7px;
+    margin-bottom: 50px;
+    margin-left: 7px;
+    background-color: rgb(230, 226, 222);
+}
+
+.a3 {
+    width: 10%;
+    height: 130px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgb(213, 131, 131);
+    box-shadow: 1px 1px 1px 1px rgb(245, 12, 12);
+
+}
+
+.a4 {
+    width: 10%;
+    height: 130px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 7px;
+    background-color: rgb(230, 226, 222);
+}
+
+.a5 {
+    width: 10%;
+    height: 130px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 7px;
+    background-color: rgb(230, 226, 222);
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 footer {
     background-color: black;
-    line-height: 2%;
+    line-height: 15%;
+    height: 200px;
+    width: auto;
 }
 
 footer h2 {
-    font-size: 15px;
-    padding-top: 20px;
-    color: brown;
+    font-size: 35px;
+    padding-top: 100px;
+    color: rgb(200, 16, 16);
     text-align: center;
     font-family: 'Edu QLD Beginner', cursive;
 
 }
 
 footer p {
-    font-size: 7px;
+    font-size: 15px;
+    padding-top: 2%;
     color: white;
     text-align: center;
     padding-bottom: 20px;
